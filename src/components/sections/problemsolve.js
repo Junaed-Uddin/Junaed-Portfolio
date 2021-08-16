@@ -147,7 +147,7 @@ const Problemsolve = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>I have been interested in problem-solving for a long time and I still like to think about specific problems. Some easy and medium section problems have been solved in Codeforce with <b className="text">C++</b>, <b className="text"> JavaScript</b>, and <b className="text">Python</b>. In most cases, <a href="https://www.hackerrank.com/junaed_uddin460"><b>Hackerrank</b></a>, <a href="https://leetcode.com/junaedMohammed/"><b>Leetcode</b></a>, and <a href="https://www.freecodecamp.org/junaed-uddin"><b>freeCodeCamp</b></a> are used for practice.</p>
+            <p>I have been interested in problem-solving for a long time and I still like to think about specific problems. Some easy and medium section problems have been solved in Codeforce with <b className="text">C++</b>, &nbsp;<b className="text"> JavaScript</b>, and <b className="text">Python</b>. In most cases, <a href="https://www.hackerrank.com/junaed_uddin460"><b>Hackerrank</b></a>, <a href="https://leetcode.com/junaedMohammed/"><b>Leetcode</b></a>, and <a href="https://www.freecodecamp.org/junaed-uddin"><b>freeCodeCamp</b></a> are used for practice.</p>
           </div>
 
         </StyledText>
