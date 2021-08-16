@@ -1,15 +1,18 @@
 ---
 date: '2'
-title: 'EKmutho Sodai'
-cover: './ekmutho.PNG'
-github: 'https://github.com/Junaed-Uddin/Akij-Group.git'
-external: 'https://github.com/Junaed-Uddin/Akij-Group.git'
+title: 'Dortors Appoinment'
+cover: './doctors_appoinment.PNG'
+github: 'https://github.com/Junaed-Uddin/Doctors-Appoinment'
+external: 'https://github.com/Junaed-Uddin/Doctors-Appoinment'
 tech:
-  - spring JDBC
+  - Spring JDBC
   - Javascript
   - Html & CSS
   - Oracle
+  - SASS
 showInProjects: true
 ---
 
-This web application allows you to order any grocery product from the local store according to location. Shops can be inserted from the admin panel as per hierarchy, including ordering, taking discounts on specific products, inserting any products and seeing the delivery route.
+A web-based application where users will have the opportunity to hire 
+doctors online. In addition, you can consult a doctor directly, take a schedule, and 
+automatically make phone calls or messages to the patient on the scheduled day
