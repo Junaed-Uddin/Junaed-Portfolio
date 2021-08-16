@@ -23,7 +23,7 @@ const StyledAboutSection = styled.section`
     color:blue;
   }
   .text:hover{
-    color:green;
+    color:var(--green);
   }
 `;
 const StyledText = styled.div`
