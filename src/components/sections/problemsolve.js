@@ -22,6 +22,9 @@ const StyledAboutSection = styled.section`
   .text{
     color:blue;
   }
+  .text:hover{
+    color:green;
+  }
 `;
 const StyledText = styled.div`
   ul.skills-list {
