@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Doctors Appoinment'
-cover: './doctors_appoinment.png'
+cover: './doctors_appoinment.PNG'
 github: 'https://github.com/Junaed-Uddin/Doctors-Appoinment'
 external: 'https://github.com/Junaed-Uddin/Doctors-Appoinment'
 tech:
