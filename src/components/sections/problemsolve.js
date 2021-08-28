@@ -20,7 +20,7 @@ const StyledAboutSection = styled.section`
     }
   }
   .text{
-    color:blue;
+    color:white;
   }
   .text:hover{
     color:var(--green);
