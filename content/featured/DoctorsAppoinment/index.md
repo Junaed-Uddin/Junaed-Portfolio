@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Dortors Appoinment'
+title: 'Doctors Appoinment'
 cover: './doctors_appoinment.PNG'
 github: 'https://github.com/Junaed-Uddin/Doctors-Appoinment'
 external: 'https://github.com/Junaed-Uddin/Doctors-Appoinment'
