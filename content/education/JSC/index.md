@@ -8,4 +8,4 @@ url: 'http://107906.ebmeb.gov.bd/'
 ---
 
 - Passed Secondary School Certificate from Darunnazat Siddikia Kamil Madrasah.
-- Got 5.00 out of 5.00 in all the subjects.
+

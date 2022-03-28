@@ -8,4 +8,4 @@ url: 'http://gsctd.edu.bd/'
 ---
 
 - Passed Higher Secondary School Certificate from Government Science College.
-- Got 4.75 out of 5.00
+
