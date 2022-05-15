@@ -137,7 +137,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['C', 'C++', 'Java', 'HTML & (S)CSS',
+  const skills = ['C', 'C++', 'Java', 'HTML & (S)CSS', 'JavaScript',
   ' React ', ' Thymeleaf ', 'Spring (JDBC)', 'MySQL, PL/SQL'];
 
   return (
