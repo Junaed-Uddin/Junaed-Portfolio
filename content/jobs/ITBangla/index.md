@@ -3,7 +3,7 @@ date: '2018-05-14'
 title: 'Software Engineer'
 company: 'IT Bangla'
 location: 'Boston, MA'
-range: 'Feb 2021 - Present'
+range: 'Feb 2021 - Sep 2021'
 url: 'https://www.itbangla.org/'
 ---
 
