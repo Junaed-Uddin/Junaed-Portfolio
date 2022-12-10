@@ -110,7 +110,7 @@ const Footer = () => {
         </a>
         <br></br> */}
         <a href="https://github.com/Junaed-Uddin/junaed-portfolio">
-          <div>Re-implemented by Junaed Uddin</div>
+          <div>Junaed</div>
         </a>
       </StyledCredit>
     </StyledFooter>
