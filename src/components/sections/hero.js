@@ -50,19 +50,18 @@ const Hero = () => {
 
   const one = <h1>Hi, My name is</h1>;
   const two = <h2 className="big-heading">Junaed</h2>;
-  const three = <h3 className="big-heading">I build things for Web </h3>;
-  const four = (
+  const three = (
     <p>
-      Former Assistant Programmer at <a href="https://www.itbangla.org/">IT Bangla Ltd.</a>
+      MERN Stack Developer
     </p>
   );
-  const five = (
+  const four = (
     <a href={`mailto:${email}`} className="email-link">
       Contact Me
     </a>
   );
 
-  const items = [one, two, three, four, five];
+  const items = [one, two, three, four];
 
   return (
     <StyledHeroSection>
