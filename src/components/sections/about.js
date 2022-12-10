@@ -117,7 +117,7 @@ const StyledPic = styled.div`
     }
   }
 `;
- 
+
 const About = () => {
   const data = useStaticQuery(graphql`
     query {
@@ -137,8 +137,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['C', 'C++', 'Java', 'HTML & (S)CSS', 'JavaScript', 'jQuery',
-  ' React ', ' Thymeleaf ', 'Spring (JDBC)', 'MySQL, PL/SQL'];
+  const skills = ['C', 'Tailwind', 'Bootstrap', 'HTML5', 'CSS', 'JavaScript', 'jQuery', ' React ', 'ES6', 'Firebase', 'Express', 'Node', 'MongoDB'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -147,22 +146,9 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Junaed Mohammed, a software Intern based in <a href="https://www.itbangla.org/">IT Bangla Ltd.</a> I hold a Bachelor of Science in Computer Science & Engineering from Ahsanullah University of Science & Technology in January 2021.
+            <p>Hello! I am Junaed, a computer science graduate from Ahsanullah University of Science & Technology. After graduation, I worked in 𝗜𝗧 𝗕𝗮𝗻𝗴𝗹𝗮 𝗟𝘁𝗱 <a href="https://www.itbangla.org/">IT Bangla Ltd.</a> as 𝗙𝗿𝗼𝗻𝘁 𝗘𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 for 8 months and also, have some working experience with the 𝗯𝗮𝗰𝗸𝗲𝗻𝗱 (𝗖𝗥𝗨𝗗 𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀) using 𝗦𝗽𝗿𝗶𝗻𝗴 𝗠𝗩𝗖 and 𝗢𝗿𝗮𝗰𝗹𝗲 𝗣𝗟/𝗦𝗤𝗟. One of my areas of interest was 𝗠𝗘𝗥𝗡 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 and I always like to use my creativity, explore new technologies, create something new and count myself as a hard-working person. So, I have done several projects exploring this stack, and am very interested in working with this technology.
+              I specialize in 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱 𝗖𝗦𝗦, and 𝗥𝗲𝗮𝗰𝘁 and am also well familiar with 𝗡𝗼𝗱𝗲, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀, and 𝗠𝗼𝗻𝗴𝗼𝗗𝗕. Designed and developed web applications across multiple APIs, third-party integrations, and databases. My Skill Highlights are given below-
             </p>
-
-            <p>
-            I have maintained, developed and launched multiple projects from scratch, carrying the development of its' back-end and front-end codebases. My goal is to always build products that provide
-              pixel-perfect, performant experiences and also have a serious passion for front-end & Backend development for creating intuitive and dynamic user experiences.
-            </p>
-            
-            <p>
-              Shortly after graduating from{' '}
-              <a href="https://www.aust.edu/">Ahsanullah University</a>, I joined the
-              engineering team at <a href="https://www.itbangla.org/">IT Bangla Ltd</a> where I work
-              on a wide variety of interesting and meaningful projects on a daily basis.
-            </p>
-
-            <p>Here are a few technologies I've been working with recently:</p>
           </div>
 
           <ul className="skills-list">

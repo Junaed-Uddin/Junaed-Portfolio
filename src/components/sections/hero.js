@@ -53,12 +53,12 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things for Web </h3>;
   const four = (
     <p>
-      I have completed my undergrad from CSE, Ahsanullah University of Science & Technology, specializing in building exceptional websites ( Front-end and Backend ) applications, and everything in between and Former Assistant Programmer at <a href="https://www.itbangla.org/">IT Bangla Ltd.</a> 
+      Former Assistant Programmer at <a href="https://www.itbangla.org/">IT Bangla Ltd.</a>
     </p>
   );
   const five = (
     <a href={`mailto:${email}`} className="email-link">
-      Get In Touch
+      Contact Me
     </a>
   );
 
