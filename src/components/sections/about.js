@@ -146,7 +146,7 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I am Junaed, a computer science graduate from Ahsanullah University of Science & Technology. After graduation, I worked in 𝗜𝗧 𝗕𝗮𝗻𝗴𝗹𝗮 𝗟𝘁𝗱 <a href="https://www.itbangla.org/">IT Bangla Ltd.</a> as 𝗙𝗿𝗼𝗻𝘁 𝗘𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 for 8 months and also, have some working experience with the 𝗯𝗮𝗰𝗸𝗲𝗻𝗱 (𝗖𝗥𝗨𝗗 𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀) using 𝗦𝗽𝗿𝗶𝗻𝗴 𝗠𝗩𝗖 and 𝗢𝗿𝗮𝗰𝗹𝗲 𝗣𝗟/𝗦𝗤𝗟. One of my areas of interest was 𝗠𝗘𝗥𝗡 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 and I always like to use my creativity, explore new technologies, create something new and count myself as a hard-working person. So, I have done several projects exploring this stack, and am very interested in working with this technology.
+            <p>One of my areas of interest was 𝗠𝗘𝗥𝗡 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 and I always like to use my creativity, explore new technologies, create something new and count myself as a hard-working person. So, I have done several projects exploring this stack, and am very interested in working with this technology.
               I specialize in 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱 𝗖𝗦𝗦, and 𝗥𝗲𝗮𝗰𝘁 and am also well familiar with 𝗡𝗼𝗱𝗲, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀, and 𝗠𝗼𝗻𝗴𝗼𝗗𝗕. Designed and developed web applications across multiple APIs, third-party integrations, and databases. My Skill Highlights are given below-
             </p>
           </div>
